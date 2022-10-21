@@ -1,0 +1,7 @@
+six
+matplotlib
+numpy
+pandas
+scikit_learn
+tensorflow
+wandb
